@@ -1,4 +1,4 @@
-# Q.38
+# Q.39
 [Question_Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 
 ```
