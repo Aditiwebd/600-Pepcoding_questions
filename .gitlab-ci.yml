@@ -1,0 +1,7 @@
+build:
+  stage: build
+  retry: 2
+  script:
+    - ls
+  rules:
+    - !reference [".rules", "schedule:never"]
